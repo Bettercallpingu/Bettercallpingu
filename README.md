@@ -1,1 +1,1 @@
- 	![logo](images/logo.gif)
+ 	![logo](/images/logo.gif)
